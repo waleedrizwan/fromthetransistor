@@ -1,3 +1,5 @@
+> **This fork adds a week-by-week [study plan](STUDY_PLAN.md)** that pairs each project below with books, courses and code to learn it from.
+
 ## From the Transistor to the Web Browser
 
 Hiring is hard, a lot of modern CS education is really bad, and it's hard to find people who understand the modern computer stack from first principles.
